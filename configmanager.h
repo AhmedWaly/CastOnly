@@ -292,6 +292,7 @@ class ConfigManager
 #endif
 			BIND_ONLY_GLOBAL_ADDRESS,
 			UNIFIED_SPELLS,
+			ENABLE_CAST, //CA
 			LAST_BOOL_CONFIG /* this must be the last one */
 		};
 
